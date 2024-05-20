@@ -8,5 +8,5 @@
         "src_urls": ["SRC_URL1"],
         "bin_urls": ["BIN_URL_1", "BIN_URL_2"],
         "changelog": ".........."
-    },
+    }
 }
